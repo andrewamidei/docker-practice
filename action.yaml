@@ -1,0 +1,6 @@
+# action.yml
+name: 'Test Python Backend'
+description: 'Simple ATM server'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
